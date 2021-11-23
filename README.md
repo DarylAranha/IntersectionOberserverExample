@@ -6,7 +6,7 @@ Get more information [here]()
 
 ## Getting Started
 
-Run the following command in your faviorite terminal.
+Run the following command in your favorite terminal.
 
 ```
 npm start
