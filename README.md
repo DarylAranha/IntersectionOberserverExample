@@ -2,7 +2,7 @@
 
 ## About
 
-Get more information [here]()
+Get more information [here](https://darylaranha.hashnode.dev/intersection-observer)
 
 ## Getting Started
 
